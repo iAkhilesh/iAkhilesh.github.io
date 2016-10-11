@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "229GKSMEFJ.net.akhileshsharma.MultiAssociationPOC",
-                "paths": ["*"]
+                "paths": ["/*"]
             }
         ]
     }
